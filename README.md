@@ -21,15 +21,13 @@ The tables below illustrate the pre and post school summary reports. Of note, pr
 ###### School Summary POST-replacement of Thomas High School 9th Grade Math and Reading School Summary Report
 ![Tables /School Summary POST-removal of Thomas High School 9th Grade.png](https://github.com/sholathompson/School_District_Analysis/blob/b7cab0b23bbaabe23f24099e59ace98cb2c42fce/Tables%20/School%20Summary%20POST-removal%20of%20Thomas%20High%20School%209th%20Grade.png)
 
-How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
-
-How does replacing the ninth-grade scores affect the following:
-- Math and reading scores by grade
-- Scores by school spending
-- Scores by school size
-- Scores by school type
-
+##### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+As the table below indicates, replacing the ninth-grade scores affected Math and reading scores by grade, school spending, school size and scores by school type. Specifically Thomas High School (THS)ranks 2nd in overall school passing. Further, THS  has the highest budget for students at $1,043,130.00.
+![Tables /Thomas High School 9th grade scores impact on math, reading, spending, sixe, type .png](https://github.com/sholathompson/School_District_Analysis/blob/2878ed8e6d7b373be237ab1904395ca2756d0b94/Tables%20/Thomas%20High%20School%209th%20grade%20scores%20impact%20on%20math,%20reading,%20spending,%20sixe,%20type%20.png)
 
 # Summary
-Summarize four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
-
+Four major changes in the updated school district analysis, after reading and math scores for the ninth grade at Thomas High School were replaced with NaNs are as followes. 
+- 461 student data points for 9th grade reading and math were replace througout the data set
+- Thomas High School is now in the top 5 of schools of the district
+- Thomas Hiigh School is reported to budget the highest amount in their budget: $638.00 per student
+- Thomas High School is 2nd in Overall passing grade,                                                                                                                                                                                                                                                                                                                                                                      
