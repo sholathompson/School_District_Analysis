@@ -8,9 +8,21 @@ Our client, the School Board, has reason to believe that academic dishonesty has
  numbers have been removed.
 
 # Results
-How is the district summary affected?
-How is the school summary affected?
+#### How is the district summary affected?
+The overall district summary was affected indicateing an overall passing of 64.9%. The district summary table below indicates that average Math and Reading scores moved to 78.93 and 81.9 respectively. While the % of student's who passed math and reading were 74.8% and 85.7% respectively. 
+![Tables /District Summary _ School Analysis.png](https://github.com/sholathompson/School_District_Analysis/blob/b7cab0b23bbaabe23f24099e59ace98cb2c42fce/Tables%20/District%20Summary%20_%20School%20Analysis.png)
+
+#### How is the school summary affected?
+The tables below illustrate the pre and post school summary reports. Of note, prior to removing Thomas High School (THS), THS ranked 8th in overall passing. After the 9th grade reading and math grades were removed, THS ranked 3rd in overall school passing as per the summary report.
+
+###### School Summary Pre-replacment of Thomas High School 9th Grade Math and Reading School Summary Report
+![Tables /School Summary Pre-removal of Thomas High School 9th Grade.png](https://github.com/sholathompson/School_District_Analysis/blob/b7cab0b23bbaabe23f24099e59ace98cb2c42fce/Tables%20/School%20Summary%20Pre-removal%20of%20Thomas%20High%20School%209th%20Grade.png)
+
+###### School Summary POST-replacement of Thomas High School 9th Grade Math and Reading School Summary Report
+![Tables /School Summary POST-removal of Thomas High School 9th Grade.png](https://github.com/sholathompson/School_District_Analysis/blob/b7cab0b23bbaabe23f24099e59ace98cb2c42fce/Tables%20/School%20Summary%20POST-removal%20of%20Thomas%20High%20School%209th%20Grade.png)
+
 How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+
 How does replacing the ninth-grade scores affect the following:
 - Math and reading scores by grade
 - Scores by school spending
@@ -18,5 +30,6 @@ How does replacing the ninth-grade scores affect the following:
 - Scores by school type
 
 
-#### Tables presenting each of the following metrics:
+# Summary
+Summarize four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
 
